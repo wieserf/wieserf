@@ -2,7 +2,7 @@
 
 - 🔭 Em busca de uma oportunidade como Dev Back-end/Front-end Jr.
 - 🌱 Estou apredendo a desenvolver sites e sistemas web utilizando as linguagens HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO e MySQL e Python.
-align="center"
+
 <div align="center">
   <a href="https://github.com/wieserf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wieserf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
