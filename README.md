@@ -1,7 +1,7 @@
 ### Olá! Sou o Fernando Wieser
 
-- 🔭 Em busca de uma oportunidade como Dev Back-end/Front-end Jr.
-- 🌱 Estou apredendo a desenvolver sites e sistemas web utilizando as linguagens HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO e MySQL e Python.
+- 🔭 Em busca de uma oportunidade como Desenvolvedor Front-end Jr.
+- 🌱 Estou apredendo a desenvolver sites e sistemas web utilizando HTML, CSS, Bootstrap, JavaScript, ReactJS e MySQL.
 
 <div align="center">
   <a href="https://github.com/wieserf">
